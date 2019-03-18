@@ -1,0 +1,24 @@
+{
+    "a": {
+        "b": {
+            "c": {
+                "d": "good man!",
+                "e": "not so bad!\nnot so bad!\nnot so bad!\nnot so bad!\nnot so bad!"
+            },
+            "f": "awesome!\npigger!",
+            "g": {
+                "h": {
+                    "i": "oh really?"
+                },
+                "k": "haha",
+                "m": "look me"
+            }
+        },
+        "t": "get up"
+    },
+    "e": {
+        "g": "error"
+    },
+    "k": "10",
+    "m": ""
+}
