@@ -111,5 +111,5 @@ class Jtypist():
             print("[x] Empty object!")
 
 if __name__ == "__main__":
-    pp = Jtypist(4)
-    pp.parse("./test.jt", tofile = "./test.json", toscreen = True)
+    jt = Jtypist(4)
+    jt.parse("./test.jt", tofile = "./test.json", toscreen = True)
